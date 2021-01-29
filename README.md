@@ -1,4 +1,4 @@
-NPM Package Boilerplate Typescript
+# NPM Package Boilerplate Typescript
 
 ## Getting Started
 
