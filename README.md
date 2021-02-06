@@ -1,4 +1,8 @@
+[GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # NPM Package Boilerplate Typescript
+
+Want to create your own NPM packages? Here is a boilerplate setup with typescript and github actions to help you get started!
 
 ## Getting Started
 
@@ -13,7 +17,8 @@
 
 The publish workflow yaml has already been setup for you. You will need to setup a few additional step to have it automatically publish to NPM as a package everytime you merge into master.
 
-
+1. Get your secret key from NPM
+2. Setup secrets on github using NPM_TOKEN as name
 
 ## Dependencies
 
