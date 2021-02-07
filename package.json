@@ -1,6 +1,6 @@
 {
   "name": "npm-typescript-starter-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A typescript starter kit for NPM",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yangli-io/icons-svg.git"
+    "url": "git+https://github.com/yangli-io/npm-package-ts-starter-kit"
   },
   "author": "",
   "license": "MIT",
